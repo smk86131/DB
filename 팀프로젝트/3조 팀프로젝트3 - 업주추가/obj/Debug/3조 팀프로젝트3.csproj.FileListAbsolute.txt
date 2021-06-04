@@ -1,0 +1,23 @@
+C:\Users\KB\Desktop\3조 팀프로젝트3\bin\Debug\3조 팀프로젝트3.exe.config
+C:\Users\KB\Desktop\3조 팀프로젝트3\bin\Debug\3조 팀프로젝트3.exe
+C:\Users\KB\Desktop\3조 팀프로젝트3\bin\Debug\3조 팀프로젝트3.pdb
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Debug\3조 팀프로젝트3.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Debug\_3조_팀프로젝트3.Form1.resources
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Debug\_3조_팀프로젝트3.Form2.resources
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Debug\_3조_팀프로젝트3.Properties.Resources.resources
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Debug\3조 팀프로젝트3.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Debug\3조 팀프로젝트3.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Debug\3조 팀프로젝트3.exe
+C:\Users\KB\Desktop\3조 팀프로젝트3\obj\Debug\3조 팀프로젝트3.pdb
+C:\Users\KB\Documents\db\3조 팀프로젝트3\bin\Debug\3조 팀프로젝트3.exe.config
+C:\Users\KB\Documents\db\3조 팀프로젝트3\bin\Debug\3조 팀프로젝트3.exe
+C:\Users\KB\Documents\db\3조 팀프로젝트3\bin\Debug\3조 팀프로젝트3.pdb
+C:\Users\KB\Documents\db\3조 팀프로젝트3\obj\Debug\3조 팀프로젝트3.csprojAssemblyReference.cache
+C:\Users\KB\Documents\db\3조 팀프로젝트3\obj\Debug\_3조_팀프로젝트3.Form1.resources
+C:\Users\KB\Documents\db\3조 팀프로젝트3\obj\Debug\_3조_팀프로젝트3.Form2.resources
+C:\Users\KB\Documents\db\3조 팀프로젝트3\obj\Debug\_3조_팀프로젝트3.Properties.Resources.resources
+C:\Users\KB\Documents\db\3조 팀프로젝트3\obj\Debug\3조 팀프로젝트3.csproj.GenerateResource.cache
+C:\Users\KB\Documents\db\3조 팀프로젝트3\obj\Debug\3조 팀프로젝트3.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\db\3조 팀프로젝트3\obj\Debug\3조 팀프로젝트3.exe
+C:\Users\KB\Documents\db\3조 팀프로젝트3\obj\Debug\3조 팀프로젝트3.pdb
+C:\Users\KB\Documents\db\3조 팀프로젝트3\obj\Debug\_3조_팀프로젝트3.업주.resources
